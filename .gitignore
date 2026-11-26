@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Packed artifacts (the tarball ships via Releases, never as a tracked file)
+dist/
+*.tgz
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
