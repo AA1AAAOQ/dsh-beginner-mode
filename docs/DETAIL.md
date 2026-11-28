@@ -1,1 +1,1 @@
-![One short message arrives, the agent answers with a single numbered step, then stops and waits](preview.svg)
+![Before touching anything, the agent asks one short question: walk you through it, or just do it; it then finishes the task itself and says what happened](preview.svg)

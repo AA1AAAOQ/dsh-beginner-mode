@@ -1,9 +1,9 @@
 {
   "name": "@AA1AAAOQ/dsh-beginner-mode",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "type": "module",
-  "description": "An optional DeepSeek Harness agent preset that explains everything in plain words, one step at a time, and changes nothing else.",
+  "description": "An optional DeepSeek Harness agent preset that asks whether to walk you through a task or do it for you, does the work itself by default, and explains everything in plain words.",
   "license": "MIT",
   "author": "AA1AAAOQ",
   "repository": {

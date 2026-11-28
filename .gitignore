@@ -11,3 +11,7 @@ Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+
+# Local-only sources: the prompt pack and the push token are never published
+beginner-mode-prompt/
+token

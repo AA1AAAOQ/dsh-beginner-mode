@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Beginner Mode",
-    "description": "Adds one optional agent preset, Beginner Mode, for people with almost no computer knowledge: it explains everything in plain words, gives exactly one step per message and waits, asks a short question instead of guessing at a one-word request, looks current menu paths and downloads up on the web before naming them, and states the risk of a destructive action plainly before carrying it out. It changes no tools, no permissions, and no other preset.",
+    "description": "Adds one optional agent preset, Beginner Mode, for people with almost no computer knowledge: before a task starts it asks whether to walk them through it or do it for them, and it does the work itself by default, giving exactly one step per message only where the person has to click. It explains everything in plain words, asks a short question instead of guessing at a one-word request, checks current menu paths, downloads and fixes on the web before naming them, and states the risk of a destructive action plainly before carrying it out. It changes no tools, no permissions, and no other preset.",
     "detail": "docs/DETAIL.md"
   }
 }
